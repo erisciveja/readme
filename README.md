@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eris Civeja</h1>
-<h3 align="center">`A passionate student learning frontend development from New York</h3>
+<h3 align="center">A passionate student learning frontend development from New York</h3>
 
 - 🔭 I’m currently working on **Etch-a-Sketch Project**
 
